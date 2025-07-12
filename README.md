@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Um-E-Kalsoum Asif</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Hi!+I%27m+Um-e-Kalsoum+Asif;Check+out+my+GitHub%21" alt="Typing SVG" />
+</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/um-e-kalsoum-asif-393701316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="um-e-kalsoum-asif-393701316" height="30" width="40" /></a>
