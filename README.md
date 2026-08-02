@@ -2,7 +2,7 @@
   I'm Um-e-Kalsoum</h3>
 
 <p align="center">
-  Computer Science Student · Aspiring Software Engineer
+  Computer Science Student · Software Engineer
 </p>
 
 <p align="center">
