@@ -10,14 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-111111?style=flat-square&logo=vercel&logoColor=white">
-  </a>
+  Feel free to reach out at 
+  <a href="mailto:uasif@uoguelph.ca">uasif@uoguelph.ca</a> — I’m always happy to connect and chat!
 </p>
 
